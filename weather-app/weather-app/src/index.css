@@ -8,5 +8,5 @@
 .app{
   min-height: 100vh;
   display: grid;
-  background-image: url('/background.jpg'),linear-gradient( #000000, #111314);
+  background-image: url('/background.jpg'), linear-gradient(45deg, #21657a, #395d6f);
 }
